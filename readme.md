@@ -1,13 +1,33 @@
 # Instagram Light
 
-A light version of instagram built with React and Redux
+* This project is a ligther version of .
+* The tech stack is as follows:
 
-## Running
+    - [React](https://reactjs.org/) (javascript library for building user interfaces or UI components.)
+    - [Redux](https://redux.js.org/) (state manager)
+    
+ ## Installation
+ 
+ * Clone or download this repository
+ * ``` cd ../path/to/the/root/directory ```
+ * ```yarn install```
+ * ``` yarn start```
+ * The application will run on http://localhost:7770 
+ 
+ 
+## Usage 
 
-First `npm install` to grab all the necessary dependencies.
+* With this application you can:
+  * View content feeds
+  * Like content and see likes increments
+  * Make comments on content
+  * View other users comments
+  
+## Contributing
 
-Then run `npm start` and open <localhost:7770> in your browser.
+* Contributions are welcomed via pull-requests on feature branches using [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/)
 
-## Production Build
 
-Run `npm build` to create a distro folder and a bundle.js file.
+## License
+
+* This project is open-source and available to everyone under the [MIT](https://opensource.org/licenses/MIT) license
