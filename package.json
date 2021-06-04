@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zbisj/instagram.git"
+    "url": "https://github.com/zbisj/instagram-light.git"
   },
   "author": "zbsij",
   "license": "MIT",
-  "homepage": "https://github.com/zbisj/instagram.git",
+  "homepage": "https://github.com/zbisj/instagram-light.git",
   "dependencies": {
     "babel-core": "^6.7.7",
     "babel-eslint": "^6.0.4",
