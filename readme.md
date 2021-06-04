@@ -1,6 +1,6 @@
 # Instagram Light
 
-* This project is a ligther version of .
+* This project is a ligther version of instagram.
 * The tech stack is as follows:
 
     - [React](https://reactjs.org/) (javascript library for building user interfaces or UI components.)
